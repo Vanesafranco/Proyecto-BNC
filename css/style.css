@@ -8,12 +8,12 @@ body {
 }
 
 .logo{
-    width:200px;
+    width: 150px;
 }
 
 /* menu */
 #menu{
-    background-color:rgb(196, 196, 196) !important;
+    background-color:#eed5d5 !important;
 }
 
 #menu a,button{
@@ -23,7 +23,7 @@ body {
 
 /* noticias  */
 #noticias{
-    background-color:#000;
+    background-color:#9e9b9b;
 }
 
 #noticias .titulo{
@@ -56,12 +56,12 @@ body {
     align-content: center;
     align-items: flex-start;
     flex-wrap: nowrap;
-    background-color: #000;
+    background-color:#fff;
 
 }
 
 #page-footer a{
-    color: #fff;
+    color: #030303;
 }
 
 .footer__cta-ftcontainer{
